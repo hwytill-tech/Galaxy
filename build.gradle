@@ -2,7 +2,7 @@ plugins {
     id "java"
     id "com.github.johnrengelman.shadow" version "8.1.1"
 }
-
+ 
 group = "org.m2sec"
 def version = "3.3.5"
 def optionalHooker = "basic" // all/js/graalpy/basic(default)
